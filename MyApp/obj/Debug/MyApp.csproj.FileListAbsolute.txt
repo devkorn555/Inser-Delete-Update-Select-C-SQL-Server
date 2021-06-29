@@ -1,0 +1,9 @@
+D:\ProjectMe\C\MyApp\MyApp\bin\Debug\MyApp.exe.config
+D:\ProjectMe\C\MyApp\MyApp\bin\Debug\MyApp.exe
+D:\ProjectMe\C\MyApp\MyApp\bin\Debug\MyApp.pdb
+D:\ProjectMe\C\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+D:\ProjectMe\C\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+D:\ProjectMe\C\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+D:\ProjectMe\C\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+D:\ProjectMe\C\MyApp\MyApp\obj\Debug\MyApp.exe
+D:\ProjectMe\C\MyApp\MyApp\obj\Debug\MyApp.pdb
